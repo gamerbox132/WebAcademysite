@@ -14,6 +14,6 @@ public class HelloServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
-        response.getWriter().write("<h1>Eu amo o Render!</h1>");
+        response.getWriter().write("<h1 style='text-align:center'>Resenha forever</h1>");
     }
 }

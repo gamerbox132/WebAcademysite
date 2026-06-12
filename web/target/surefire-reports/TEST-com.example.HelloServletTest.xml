@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.example.HelloServletTest" time="0.005" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.example.HelloServletTest" time="0.004" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="21.0.8+12-LTS-250"/>
@@ -45,7 +45,7 @@
     <property name="java.class.path" value="C:\apache-maven-3.8.5-bin\apache-maven-3.8.5\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher deploy -f c:\Users\Aluno\OneDrive\Documentos\web3\web\pom.xml"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher deploy -f c:\Users\Aluno\OneDrive\Documentos\web3\WebAcademysite\web\pom.xml"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="user.language" value="pt"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -61,5 +61,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.example.HelloServletTest" name="testServlet" time="0.005"/>
+  <testcase classname="com.example.HelloServletTest" name="testServlet" time="0.004"/>
 </testsuite>
